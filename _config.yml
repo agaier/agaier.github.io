@@ -40,7 +40,7 @@ avatar: "/img/avatar_icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Adam Gaier
+  name: adam gaier
   email: "adam.ga@gmail.com"
   github: agaier    # eg. daattali
 
