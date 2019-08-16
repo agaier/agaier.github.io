@@ -8,7 +8,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <br />
 
 #### In Review
-- **A Gaier**, D Ha : "Weight Agnostic Neural Networks" ([Interactive Article](https://weightagnostic.github.io/)) 
+- **A Gaier**, D Ha : "Weight Agnostic Neural Networks" ([Interactive Article](https://weightagnostic.github.io/), [PDF](https://arxiv.org/abs/1906.04358)) 
 
 #### Published
 - **A Gaier**,  A Asteroth, JB Mouret 2019: "Are Quality Diversity Algorithms Better at Generating Stepping Stones than Objective-based Search?" _Genetic and Evolutionary Computation Conference (GECCO)_ ([PDF](https://bit.ly/2yOtWH9))
