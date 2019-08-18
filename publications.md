@@ -7,7 +7,7 @@ published: true
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=eiqVLC0AAAAJ).
 
 ---
-## Primary Contributions
+### Primary Contributions
 
 #### A Gaier, A Asteroth, JB Mouret, 2018: "Data-efficient Design Exploration Through Surrogate-assisted Illumination" _Evolutionary Computation_ ([PDF](https://arxiv.org/pdf/1806.05865))
   * The paper of record for the Surrogate-Assisted Illumination (SAIL) algorithm, an approach which integrates quality-diversity and Bayesian optimization with Gaussian process models to create a data-efficient method of producing large archives of diverse solutions. Building on work done in conference publications, aerodynamic problems are tackled -- illustrating the techniques ability to extend the reach of quality-diversity algorithms to even computationally expensive domains.
@@ -30,12 +30,12 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   
 
 ---
-## Publications
+### Publications
 
-### In Review
+#### In Review
 - **A Gaier**, D Ha, 2019: "Weight Agnostic Neural Networks" ([Interactive Article](https://weightagnostic.github.io/), [PDF](https://arxiv.org/abs/1906.04358)) 
 
-### Published
+#### Published
 - **A Gaier**,  A Asteroth, JB Mouret 2019: "Are Quality Diversity Algorithms Better at Generating Stepping Stones than Objective-based Search?" _Genetic and Evolutionary Computation Conference (GECCO)_ ([PDF](https://bit.ly/2yOtWH9))
 - A Hagg, M Zaefferer, J Stork, **A Gaier** 2019: "Prediction of Neural Network Performance by Phenotypic Modeling" _Genetic and Evolutionary Computation Conference (GECCO)_ ([PDF](https://arxiv.org/pdf/1907.07075))
 - **A Gaier**, A Asteroth, JB Mouret, 2018: "Data-efficient Design Exploration Through Surrogate-assisted Illumination" _Evolutionary Computation_ ([PDF](https://arxiv.org/pdf/1806.05865))
