@@ -19,10 +19,10 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   * We introduced a method of predicting the performance of evolved neural networks using Gaussian process models and a custom kernel which efficiently computes a hereditary distance between solutions. Integrating this model into a surrogate-assisted optimization framework we improved the data-efficiency of a state-of-the-art neuroevolution algorithm by several times.
   * Impact: This work received the Best Paper award (Complex Systems) at (GECCO) 2018 -- the premier conference for evolutionary computation
   
-#### A Gaier, D Ha, 2019: "Weight Agnostic Neural Networks" ([Interactive Article](https://weightagnostic.github.io/), [PDF](https://arxiv.org/abs/1906.04358)) 
+#### A Gaier, D Ha, 2019: "Weight Agnostic Neural Networks" _Advances in Neural Information Processing Systems (NeurIPS)_ ([Interactive Article](https://weightagnostic.github.io/), [PDF](https://arxiv.org/abs/1906.04358), [GoogleAI Blog Post](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html) 
   * In this paper we question to what extent neural network architectures alone, without learning any weight parameters, can encode solutions for a given task. A search method was proposed for neural network architectures that can already perform a task without any explicit weight training. We demonstrated that our method can find minimal neural network architectures that can perform several reinforcement learning tasks without weight training. On a supervised learning domain, we found network architectures that achieve much higher than chance accuracy on MNIST (>90\%) using random weights.
-  * Awaiting review. 
-  * Impact: Has already generated [substantial conversation](https://twitter.com/hardmaru/status/1138600152048910336) in the machine-learning community, including discussions in journal clubs in the [US](https://www.youtube.com/watch?v=OmniHm9Fk-A) and [China](https://zhuanlan.zhihu.com/p/71848261).
+  * Impact: Spotlight presentation at NeurIPS 2019 (_top 2.5% of submissions_) -- a top-tier machine learning conference. Generated [substantial conversation](https://twitter.com/hardmaru/status/1138600152048910336) in the machine-learning community, including discussions in journal clubs in the US (e.g. [here](https://www.youtube.com/watch?v=OmniHm9Fk-A) and [here](https://www.youtube.com/watch?v=rEKtmUS3WIU)) and [China](https://zhuanlan.zhihu.com/p/71848261), featured on front page of HackerNews, etc.
+
 
 #### A Gaier, A Asteroth 2014: "Evolving Look-ahead Controllers for Energy Optimal Driving and Path Planning" _Innovations in Intelligent Systems and Applications (INISTA)_ ([PDF](https://bit.ly/2Kxp1je))
   * An evolved neural network controller was presented to solve the optimal control problem for energy optimal driving of low power-to-mass vehicles. Controller computes equivalent control commands to traditional graph searching approaches, while able to adapt to varied constraints and conditions. After training, as trivial amounts of computation time and memory are required, the approach is suitable for use in embedded systems and path planning applications.
@@ -32,10 +32,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 ---
 ### Publications
 
-#### In Review
-- **A Gaier**, D Ha, 2019: "Weight Agnostic Neural Networks" ([Interactive Article](https://weightagnostic.github.io/), [PDF](https://arxiv.org/abs/1906.04358)) 
-
-#### Published
+- **A Gaier**, D Ha, 2019: "Weight Agnostic Neural Networks" _Advances in Neural Information Processing Systems (NeurIPS)_ ([Interactive Article](https://weightagnostic.github.io/), [PDF](https://arxiv.org/abs/1906.04358), [Blog Post](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html))
 - **A Gaier**,  A Asteroth, JB Mouret 2019: "Are Quality Diversity Algorithms Better at Generating Stepping Stones than Objective-based Search?" _Genetic and Evolutionary Computation Conference (GECCO)_ ([PDF](https://bit.ly/2yOtWH9))
 - A Hagg, M Zaefferer, J Stork, **A Gaier** 2019: "Prediction of Neural Network Performance by Phenotypic Modeling" _Genetic and Evolutionary Computation Conference (GECCO)_ ([PDF](https://arxiv.org/pdf/1907.07075))
 - **A Gaier**, A Asteroth, JB Mouret, 2018: "Data-efficient Design Exploration Through Surrogate-assisted Illumination" _Evolutionary Computation_ ([PDF](https://arxiv.org/pdf/1806.05865))
