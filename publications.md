@@ -4,7 +4,7 @@ title: Publications
 published: true
 ---
 
-You can also browse my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=eiqVLC0AAAAJ).
+You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=GGyARB8AAAAJ&hl=en).
 
 ---
 ### Primary Contributions
